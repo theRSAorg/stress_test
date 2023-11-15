@@ -1,5 +1,6 @@
 rm(list = ls())
 library(lme4)
+library(tibble)
 
 # Example taken from https://m-clark.github.io/posts/2019-10-20-big-mixed-models/
 
