@@ -2,6 +2,10 @@
 library(lme4)
 library(tibble)
 
+# Short test to try out computer's speed for processing a big mixed model
+# Jolyon's computer: 2.9 mins
+# Celestin's computer: 5 mins
+
 # Example taken from https://m-clark.github.io/posts/2019-10-20-big-mixed-models/
 # Simulate some data
 
